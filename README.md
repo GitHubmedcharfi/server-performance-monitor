@@ -28,4 +28,4 @@ git clone https://github.com/GitHubmedcharfi/server-performance-monitor.git
 cd server-performance-monitor
 chmod +x server_stats.sh
 sudo ./server_stats.sh
-## 🖥️ Sample Output
+
