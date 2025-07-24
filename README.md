@@ -22,4 +22,10 @@ This script provides a quick and clear overview of a Linux server's health **wit
 - Anyone learning Linux performance fundamentals  
 
 It reduces time spent manually checking multiple system commands by consolidating them into one powerful, readable report.
-
+## ✅ How to Run
+```bash
+git clone https://github.com/GitHubmedcharfi/server-performance-monitor.git
+cd server-performance-monitor
+chmod +x server_stats.sh
+sudo ./server_stats.sh
+## 🖥️ Sample Output
